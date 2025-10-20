@@ -16,11 +16,7 @@ Sistema inteligente de reconocimiento de placas vehiculares y verificación de r
 - **Simulación** para diferentes fechas y horas
 - **Estados claros**: Restricción Activa, Restringido Inactivo, Permitido
 
-### 📊 Reportes y Estadísticas
-- **Interfaz colorizada** con emojis informativos
-- **Estadísticas detalladas** del escaneo
-- **Reportes JSON** exportables
-- **Logging completo** de operaciones
+
 
 ## 🛠️ Instalación
 
